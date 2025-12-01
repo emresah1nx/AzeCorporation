@@ -1,2 +1,0 @@
-# AzeCorporation
-Privacy Policy
