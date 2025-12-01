@@ -130,6 +130,5 @@ Düzeltme talep etme
 Silinmesini talep etme
 İşlemenin kısıtlanmasını talep etme
 İtiraz etme
-Zarara uğramanız hâlinde tazminat talep etme
 Bu haklar için:
 📧 support@azecorporation.com
